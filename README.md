@@ -8,3 +8,5 @@
 <script src="/bower_components/mocha-blanketjs-adapter/mocha-blanket.js"></script>
 
 ```
+
+Based on https://github.com/ModelN/grunt-blanket-mocha/blob/master/support/mocha-blanket.js 
