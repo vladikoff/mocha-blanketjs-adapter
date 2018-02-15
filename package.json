@@ -1,0 +1,19 @@
+{
+  "name": "mocha-blanketjs-adapter",
+  "version": "1.0.0",
+  "description": "Mocha-BlanketJS adapter",
+  "main": "mocha-blanket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladikoff/mocha-blanketjs-adapter.git"
+  },
+  "author": "vladikoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladikoff/mocha-blanketjs-adapter/issues"
+  },
+  "homepage": "https://github.com/vladikoff/mocha-blanketjs-adapter#readme"
+}
